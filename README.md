@@ -1,9 +1,7 @@
 ## 校园网络规划
 
 [![Author](https://img.shields.io/badge/Author-QuincyKing-brightgreen.svg)](https://github.com/QuincyKing)
-5
 [![Version](https://img.shields.io/badge/Version-0.0.1-blue.svg)](./Campus-Network-Construction)
-6
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](./LICENSE)
 
 该工程在ensp模拟器上实现
@@ -30,9 +28,13 @@
 1. DNS测试
 
 ![dns](./img/dns.jpg)
+
+
 2. WEB测试
 
 ![web](./img/web.jpg)
+
+
 3. NAT测试
 
 ![nat](./img/nat.jpg)
